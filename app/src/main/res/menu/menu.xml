@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/connent"
+        android:id="@+id/connect"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_bluetooth_connected_black_24dp"/>
+
+    <item
+        android:title="@string/disabled"
+        android:id="@+id/disabled"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_bluetooth_disabled_black_24dp"/>
+
+    <item
+        android:title="@string/pair"
+        android:id="@+id/pair"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_launcher_connection"/>
+
+    <item
+        android:title="@string/bluetooth"
+        android:id="@+id/device_connection"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_cast_connected_black_24dp" />
+</menu>

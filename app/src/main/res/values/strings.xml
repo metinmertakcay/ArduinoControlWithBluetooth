@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Robot Controller</string>
+    <string name="button">Button</string>
+    <string name="connent">connect</string>
+    <string name="disabled">disabled</string>
+    <string name="bluetooth">device connection:</string>
+    <string name="pair_list">Pair</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="find_paired_devices">Find Paired Devices</string>
+    <string name="pair">Pair</string>
+    <string name="gripper">Gripper Controller</string>
+    <string name="movement">Movement Controller</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="servo_1">Servo Motor Control</string>
+    <string name="servo_2">Servo Motor 2</string>
+    <string name="servo_3">Servo Motor 3</string>
+    <string name="num_0">0</string>
+    <string name="num_90">90</string>
+    <string name="num_180">180</string>
+</resources>
